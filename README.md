@@ -1,4 +1,4 @@
-# UsabilityHub-clone
+# usability-hub-clone
 
 A responsive landing page inspired by UsabilityHub, built using HTML and CSS.
 
