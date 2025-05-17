@@ -8,8 +8,11 @@ https://khushitiwari26.github.io/usability-hub-clone/
 📁 Project Structure
 
 ├── index.html               # Main HTML file
+
 ├── style.css                # Core styling
+
 ├── media-queries.css        # Responsive media queries
+
 └── assets/                  # Images and icons
 
 ✅ FeaturesResponsive navigation with hamburger menu
