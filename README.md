@@ -1,12 +1,9 @@
 # usability-hub-clone
 
-UsabilityHub Landing Page Clone
 A responsive landing page inspired by UsabilityHub, built using HTML and CSS.
 
 🔗 Live Demo
-Click here to view the live site
-
-(Replace with your actual deployment URL, e.g., GitHub Pages or Netlify)
+https://khushitiwari26.github.io/usability-hub-clone/
 
 📁 Project Structure
 
